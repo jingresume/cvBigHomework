@@ -1,0 +1,3 @@
+/home/sj/cmakeProject/cvBigHomework/build/CMakeFiles/edit_cache.dir
+/home/sj/cmakeProject/cvBigHomework/build/CMakeFiles/rebuild_cache.dir
+/home/sj/cmakeProject/cvBigHomework/build/CMakeFiles/cvbighomework.dir
